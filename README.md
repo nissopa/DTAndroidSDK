@@ -1,2 +1,5 @@
-# DTAndroidSDK
-SDK for android which track the events for the service
+# Getting Started
+
+''' gradle
+implementation "com.discover-tech.sdk:core:[VERSION_NUMBER]"
+'''
