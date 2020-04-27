@@ -1,5 +1,5 @@
 # Getting Started
 
-''' java
+``` java
 implementation "com.discover-tech.sdk:core:[VERSION_NUMBER]"
-'''
+```
