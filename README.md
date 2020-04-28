@@ -27,7 +27,7 @@ DTTracker.userDataProvider = new DTUserDataProvider() {
                 Location loc = new Location()
                 loc.setLong({SOME_LONGITUDE});
                 loc.setLat({SOME_LATITUDE});
-                loc.setLocationType({GPS or CELL});
+                loc.setLocationType({GPS or CELL or IP});
                 return new Location()
             }
 };
